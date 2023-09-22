@@ -1,1 +1,1 @@
-casa.png…]()
+<img src="img/casa.png">
